@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabenemor
-- 👀 I’m interested in becoming a UX developer
-- 🌱 I’m currently learning dart and flutter framework as well as Html and CSS
+- 👀 I’m a UX designer and a flutter developer
+- 🌱 I’m currently learning dart and flutter framework
 - 💞️ I’m looking to collaborate on projects that may require my skills as an experience designer
 - 📫 You can reach me on gabenemor@gmail.com for now
 
