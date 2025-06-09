@@ -8,7 +8,7 @@
 <h1 align="center">Gabriel Here 👋</h1>
 
 <p align="center">
-  <b>Product Designer, AI Enthusiast, and Founder of <a href="https://surgescale.ai">SurgeScale AI</a></b><br>
+  <b>Product Designer, AI Enthusiast, and Founder of <a href="https://surgescaleai.com">SurgeScale AI</a></b><br>
   <i>Turning raw ideas into intuitive, user-friendly products for the AI, Web3, and no-code world</i>
 </p>
 
@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 🧑‍💻 **Founder of [SurgeScale AI](https://surgescale.ai):** Helping modern businesses streamline operations with custom chatbots, voice agents, and micro SaaS tools.
+- 🧑‍💻 **Founder of [SurgeScale AI](https://surgescaleai.com):** Helping growth oriented businesses streamline operations with custom chatbots, voice agents, and micro SaaS tools.
 - 🎨 **Product Designer:** 5+ years of experience in digital product design, specializing in intuitive UX, onboarding flows, and rapid MVPs.
 - 🛠️ **Builder at the intersection of AI, Web3, and no-code.**
 - 🌐 **Content Creator:** AI, automation, and emerging tech—making it clear, useful, and (sometimes) fun!
@@ -38,7 +38,7 @@ UX strategy | No-code AI systems | Design systems | User onboarding | MVP design
 
 ### 🌟 Featured Projects
 
-- **[SurgeScale AI](https://surgescale.ai):** AI automation agency for smarter business ops.
+- **[SurgeScale AI](https://surgescaleai.com):** AI automation agency for smarter business ops.
 - **Along App:** Safe, affordable rideshare & transit for emerging markets.
 - **AI Surge:** Led complete UX redesign for a no-code decision intelligence platform.
 - **Tangleverse:** Simplified Web3 community tools for IOTA & Shimmer.
