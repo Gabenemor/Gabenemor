@@ -40,7 +40,7 @@ UX strategy | No-code AI systems | Design systems | User onboarding | MVP design
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/gabenemor)
 [![Twitter/X](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com/garaijin)
-[![Website](https://img.shields.io/badge/Website-222222?logo=Google-Chrome)](https://gabenemor.com)
+[![Website](https://img.shields.io/badge/Website-222222?logo=Google-Chrome)](https://gabemor.com)
 
 ---
 
